@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Your Currency</string>
+    <string name="Currency_name">Mata Uang</string>
+    <string name="detail">Detail</string>
+    <string name="TitleHome">Home</string>
+    <string name="about">About me</string>
+    <string name="name">Mohammad Faiz Azhary</string>
+    <string name="email">mohammadfaizazhary@gmail.com</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
